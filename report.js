@@ -233,21 +233,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 206310000,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "49",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 155101,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 108100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Fail()"
+});
+formatter.result({
+  "duration": 148000,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 18,
@@ -286,21 +314,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 513300,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "50",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 181900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 105900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 94300,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 19,
@@ -339,21 +395,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 226200,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "51",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 309100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 70599,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 64101,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 20,
@@ -392,21 +476,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 270800,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "59",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 130301,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 75500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 197300,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 21,
@@ -445,21 +557,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 208800,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "60",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 126000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 247299,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 175400,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 22,
@@ -498,21 +634,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "16",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 320100,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "60",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 292600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 257200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 64201,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 23,
@@ -551,21 +711,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 372601,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "61",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 142501,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 222600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 76800,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 24,
@@ -604,21 +788,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "16",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 419200,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "61",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 128701,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 57601,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 60099,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 25,
@@ -657,21 +865,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 186301,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "64",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 119500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 224800,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 68200,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 26,
@@ -710,21 +942,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "16",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 186800,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "64",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 285101,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 216900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
+});
+formatter.result({
+  "duration": 67101,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 27,
@@ -763,21 +1019,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 912800,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "65",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 168399,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 522899,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 86900,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 28,
@@ -816,21 +1100,49 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    },
+    {
+      "val": "16",
+      "offset": 33
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R_or_R(int,int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 211901,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "79",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 130699,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 213600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 441201,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 29,
@@ -869,21 +1181,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 1013599,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "80",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 303499,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 240499,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 63900,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 30,
@@ -922,21 +1258,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "16",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 215900,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "80",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 327400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 287600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Distinction()"
+});
+formatter.result({
+  "duration": 94300,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 31,
@@ -975,21 +1335,45 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "15",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 196700,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "81",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 144099,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 248400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
+});
+formatter.result({
+  "duration": 62000,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 32,
@@ -1028,20 +1412,44 @@ formatter.step({
   ],
   "keyword": "Then "
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "16",
+      "offset": 26
+    }
+  ],
+  "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 2219600,
+  "status": "passed"
 });
-formatter.match({});
-formatter.result({
-  "status": "undefined"
+formatter.match({
+  "arguments": [
+    {
+      "val": "81",
+      "offset": 4
+    }
+  ],
+  "location": "GradeSteps.the_is_entered_into_a_student_record(int)"
 });
-formatter.match({});
 formatter.result({
-  "status": "undefined"
+  "duration": 688200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.grade_is_pressed()"
+});
+formatter.result({
+  "duration": 485100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GradeSteps.the_result_on_screen_should_be_Distinction()"
+});
+formatter.result({
+  "duration": 1022400,
+  "status": "passed"
 });
 });
