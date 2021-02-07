@@ -189,7 +189,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 339731300,
+  "duration": 425745700,
   "status": "passed"
 });
 formatter.match({
@@ -202,21 +202,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 193300,
+  "duration": 769800,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 97700,
+  "duration": 467400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Fail()"
 });
 formatter.result({
-  "duration": 117400,
+  "duration": 310000,
   "status": "passed"
 });
 formatter.scenario({
@@ -266,7 +266,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 400600,
+  "duration": 365900,
   "status": "passed"
 });
 formatter.match({
@@ -279,21 +279,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 137700,
+  "duration": 171200,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 77700,
+  "duration": 269900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 114700,
+  "duration": 241600,
   "status": "passed"
 });
 formatter.scenario({
@@ -343,7 +343,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 271300,
+  "duration": 269100,
   "status": "passed"
 });
 formatter.match({
@@ -356,21 +356,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 154800,
+  "duration": 140600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 73100,
+  "duration": 68300,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 85600,
+  "duration": 72300,
   "status": "passed"
 });
 formatter.scenario({
@@ -420,7 +420,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 245400,
+  "duration": 217800,
   "status": "passed"
 });
 formatter.match({
@@ -433,21 +433,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 161500,
+  "duration": 153800,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 70500,
+  "duration": 75500,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 288100,
+  "duration": 321600,
   "status": "passed"
 });
 formatter.scenario({
@@ -497,7 +497,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 446300,
+  "duration": 199000,
   "status": "passed"
 });
 formatter.match({
@@ -510,21 +510,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 141100,
+  "duration": 156100,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 73000,
+  "duration": 110600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 142400,
+  "duration": 76500,
   "status": "passed"
 });
 formatter.scenario({
@@ -574,7 +574,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 213300,
+  "duration": 176100,
   "status": "passed"
 });
 formatter.match({
@@ -587,21 +587,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 141300,
+  "duration": 146400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 234100,
+  "duration": 64900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 74100,
+  "duration": 65600,
   "status": "passed"
 });
 formatter.scenario({
@@ -651,7 +651,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 247100,
+  "duration": 246900,
   "status": "passed"
 });
 formatter.match({
@@ -664,21 +664,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 340900,
+  "duration": 327100,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 237200,
+  "duration": 131500,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 250500,
+  "duration": 68800,
   "status": "passed"
 });
 formatter.scenario({
@@ -728,7 +728,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 202600,
+  "duration": 273200,
   "status": "passed"
 });
 formatter.match({
@@ -741,21 +741,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 143000,
+  "duration": 152300,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 72300,
+  "duration": 74500,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 67200,
+  "duration": 99300,
   "status": "passed"
 });
 formatter.scenario({
@@ -805,7 +805,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 209900,
+  "duration": 547300,
   "status": "passed"
 });
 formatter.match({
@@ -818,21 +818,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 130500,
+  "duration": 160600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 71100,
+  "duration": 249300,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 69300,
+  "duration": 74200,
   "status": "passed"
 });
 formatter.scenario({
@@ -882,7 +882,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 205800,
+  "duration": 217800,
   "status": "passed"
 });
 formatter.match({
@@ -895,21 +895,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 304100,
+  "duration": 1228000,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 244800,
+  "duration": 302800,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 226200,
+  "duration": 475300,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1095,7 +1095,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 208200,
+  "duration": 255400,
   "status": "passed"
 });
 formatter.match({
@@ -1108,21 +1108,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 137900,
+  "duration": 147600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 221400,
+  "duration": 259900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Fail()"
 });
 formatter.result({
-  "duration": 256700,
+  "duration": 8025000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1172,7 +1172,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 186500,
+  "duration": 351200,
   "status": "passed"
 });
 formatter.match({
@@ -1185,21 +1185,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 282500,
+  "duration": 170300,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 495800,
+  "duration": 246400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 524800,
+  "duration": 231100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1249,7 +1249,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 504000,
+  "duration": 236600,
   "status": "passed"
 });
 formatter.match({
@@ -1262,21 +1262,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 353800,
+  "duration": 142600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 308900,
+  "duration": 283400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 239000,
+  "duration": 213600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1326,7 +1326,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 653400,
+  "duration": 620600,
   "status": "passed"
 });
 formatter.match({
@@ -1339,21 +1339,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 137800,
+  "duration": 398900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 339000,
+  "duration": 750900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 268900,
+  "duration": 307200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1403,7 +1403,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 240100,
+  "duration": 206400,
   "status": "passed"
 });
 formatter.match({
@@ -1416,21 +1416,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 157000,
+  "duration": 136800,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 106400,
+  "duration": 265900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 83900,
+  "duration": 205400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1480,7 +1480,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 2257300,
+  "duration": 1140400,
   "status": "passed"
 });
 formatter.match({
@@ -1493,21 +1493,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 1021900,
+  "duration": 845600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 484100,
+  "duration": 505700,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Pass()"
 });
 formatter.result({
-  "duration": 89600,
+  "duration": 290500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1557,7 +1557,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 422500,
+  "duration": 367000,
   "status": "passed"
 });
 formatter.match({
@@ -1570,21 +1570,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 335400,
+  "duration": 405800,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 71600,
+  "duration": 90900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 234800,
+  "duration": 285800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1634,7 +1634,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 255500,
+  "duration": 229900,
   "status": "passed"
 });
 formatter.match({
@@ -1647,21 +1647,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 140000,
+  "duration": 115600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 285600,
+  "duration": 69400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Merit()"
 });
 formatter.result({
-  "duration": 398000,
+  "duration": 95100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1711,7 +1711,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 982900,
+  "duration": 1215700,
   "status": "passed"
 });
 formatter.match({
@@ -1724,21 +1724,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 331700,
+  "duration": 424900,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 59600,
+  "duration": 65400,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Distinction()"
 });
 formatter.result({
-  "duration": 254400,
+  "duration": 103900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1788,7 +1788,7 @@ formatter.match({
   "location": "GradeSteps.the_Registration_Year_is_R(int)"
 });
 formatter.result({
-  "duration": 362500,
+  "duration": 174900,
   "status": "passed"
 });
 formatter.match({
@@ -1801,21 +1801,21 @@ formatter.match({
   "location": "GradeSteps.the_student_score_of_is_entered_into_a_student_record(int)"
 });
 formatter.result({
-  "duration": 284700,
+  "duration": 289700,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.grade_is_pressed()"
 });
 formatter.result({
-  "duration": 378500,
+  "duration": 60600,
   "status": "passed"
 });
 formatter.match({
   "location": "GradeSteps.the_result_on_screen_should_be_Distinction()"
 });
 formatter.result({
-  "duration": 298800,
+  "duration": 390700,
   "status": "passed"
 });
 });
